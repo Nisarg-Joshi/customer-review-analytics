@@ -1,4 +1,4 @@
-data/
+data/Reviews.csv
 .venv/
 __pycache__/
 *.pyc
